@@ -3,8 +3,8 @@
 Sistema de Gestão Escolar: Flow.
 Este projeto foi desenvolvido como parte do Projeto de Extensão dos alunos do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da FATEC Americana. O objetivo é aplicar o conhecimento acadêmico para resolver problemas reais da comunidade local, sem fins lucrativos.
 
-Parceria: Escola Libre-se.
-A Libre-se é uma escola de idiomas (Inglês e Libras) situada em Americana-SP. Através de reuniões com os stakeholders, identificamos um fluxo administrativo dependente de processos manuais, o que gerava "gargalos" operacionais e riscos de inconsistência de dados.
+Parceria:
+A nossa parceira é uma escola de idiomas (Inglês e Libras). Através de reuniões com os stakeholders, identificamos um fluxo administrativo dependente de processos manuais, o que gerava "gargalos" operacionais e riscos de inconsistência de dados.
 
 O Problema: 
 O diagnóstico revelou que a escola utilizava cerca de 8 a 10 planilhas distintas para gerir:
