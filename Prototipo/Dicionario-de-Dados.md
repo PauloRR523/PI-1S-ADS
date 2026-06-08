@@ -115,7 +115,7 @@ Esse protótipo do Flow é uma SPA (*Single Page Application*) sem backend dedic
 ### 4.1 Cálculo de Juros por Atraso
 Os juros são recalculados dinamicamente a cada exibição utilizando a lógica:
 
-$$\text{juros} = \text{valor} \times \left(\frac{\text{taxaMensal}}{100}\right) \times \text{mesesAtraso}$$
+$$\text{juros} = \text{valor} \times \left(\frac{\text{taxaDiaria}}{100}\right) \times \text{diasAtraso}$$
 
 O valor persistido (`jurosAplicados`) é gravado no banco de dados local apenas no momento exato do registro do pagamento.
 
